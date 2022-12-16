@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924277069932",
+    "project_id": "reddit-f509b",
+    "storage_bucket": "reddit-f509b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924277069932:android:4a4ac3be36c1c15634a049",
+        "android_client_info": {
+          "package_name": "com.example.reddit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924277069932-ga6j0bb54r3jg24tbcia2sspu42gs0i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHvTjsxHa9WJw-SjGQ4IgpJw29rR8jHZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924277069932-ga6j0bb54r3jg24tbcia2sspu42gs0i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
